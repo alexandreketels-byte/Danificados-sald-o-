@@ -4,6 +4,19 @@ body {
   padding: 20px;
 }
 
+h1 {
+  margin-bottom: 20px;
+}
+
+.filtros {
+  margin-bottom: 20px;
+}
+
+#busca {
+  padding: 10px;
+  width: 300px;
+}
+
 #catalogo {
   display: flex;
   flex-wrap: wrap;
@@ -27,4 +40,15 @@ body {
   color: green;
   font-weight: bold;
   font-size: 18px;
+}
+
+.botao {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  background: #25D366;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
 }
