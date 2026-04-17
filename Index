@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Saldão de Ar Condicionado</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Saldão de Ar Condicionado (com defeito)</h1>
+
+  <div id="catalogo"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
